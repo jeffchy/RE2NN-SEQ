@@ -2,3 +2,5 @@ data/*/
 model_seq/*.res
 model_seq/*.py
 data/*.zip
+.idea
+*/.idea
