@@ -10,7 +10,7 @@ As the title we turn RE for slot filling into a trainable neural network.
 
 ### Download data/rule/transducer files
 Please download the data files (data.zip) first using one of these links 
-[google drive](link1), [tencent drive](link2).
+[google drive](https://drive.google.com/file/d/17st9VrnhNem-1xPLcp4IHGK_xifl5N9i/view?usp=sharing), [tencent drive](https://share.weiyun.com/qds6EG2C).
 Then extract it under the **/data** folder.
 ```
 unzip data.zip
