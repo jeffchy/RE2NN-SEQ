@@ -1,0 +1,4 @@
+-e git+https://github.com/tensorly/tensorly@dc67ac6353e2d97dc516671dd9e64d254fa495b5#egg=tensorly
+torch==1.3.1
+automata-tools==2.0.1
+tqdm
