@@ -109,7 +109,7 @@ python create_dataset_automata.py --independent 2 --decompose 1 \
 --automata_name my_rule_decomposed
 ```
 
-Run and train the decompose transducer
+Run and train the decomposed transducer
 ```
 cd src_seq/
 python main.py --independent 2 --dataset SNIPS-BIO --method decompose \
