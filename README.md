@@ -37,7 +37,7 @@ We provide the
 Make sure you download the data files.
 model_seq contains example configs, you can directly run the code using the hyper-parameters in the configs and get the results using
 ```
-python main.py --arg_path ../model_seq/config_file_path.res
+python main.py --args_path ../model_seq/config_file_path.res
 ```
 
 key parameters
