@@ -52,7 +52,7 @@ key parameters
 
 ### Guidelines on using your own data and rules
 ### dataset
-To preprocess your dataset and create vocab files,
+To preprocess your dataset and create vocab files, and pretrained static embeddings, make sure this step is correct!
 you need to modify function ```create_slot_dataset``` in ```data.py```, and run it.
 
 ### rules for slot filling
